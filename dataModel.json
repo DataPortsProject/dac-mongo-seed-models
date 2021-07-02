@@ -1,0 +1,18 @@
+[
+  {
+      "_id": "313030303030303030303031",
+      "name": "WeatherObserved",
+      "description": "An observation of weather conditions at a certain place and time",
+      "link": "https://fiware.github.io/data-models/specs/Weather/WeatherObserved/schema.json",
+      "privateRepository": false,
+      "projectName": ""
+  },
+  {
+      "_id": "313030303030303030303032",
+      "name": "PCS Data Model",
+      "description": "Data Model used on PCS operations",
+      "link": "PcsData/PcsData-schema.json",
+      "privateRepository": true,
+      "projectName": "testupv"
+  }
+]
